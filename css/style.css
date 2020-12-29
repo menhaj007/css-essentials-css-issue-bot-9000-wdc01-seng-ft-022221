@@ -19,5 +19,6 @@ font-style : italic;
 
 #tasks .completed {
 text-decoration : underline;
+background: pink;
 }
 
