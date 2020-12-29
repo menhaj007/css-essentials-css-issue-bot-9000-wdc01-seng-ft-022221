@@ -7,11 +7,10 @@ color : blue;
 }
 
 h2 {
-  color: green;
-  font-weight: normal
-  font-style: italic;
+color : green;
+font-weight : normal;
+font-style : italic;
 }
-
 .completed {
   font-family: 12px;
 }
